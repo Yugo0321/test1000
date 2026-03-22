@@ -12,10 +12,6 @@ header {
     align-items: center;
 }
 
-a {
-    display: block;
-}
-
 nav {
     display: flex;
 }
